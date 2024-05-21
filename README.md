@@ -47,6 +47,4 @@ The geo visualization showcases transaction amounts and counts across Indian sta
 Top insights encompass various key findings derived from the data, visualized through charts showcasing the most significant trends.
 
 ## References
-TIDB Cloud Documentation
-Streamlit Documentation
-Plotly Documentation
+TIDB Cloud Documentation, Streamlit Documentation & Plotly Documentation.
